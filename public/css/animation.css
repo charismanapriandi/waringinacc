@@ -1,0 +1,10 @@
+@keyframes fadein {
+    to {
+        opacity: 1;
+    }
+}
+
+.fade {
+    opacity: 0;
+    animation: fadein 0.5s forwards;
+}

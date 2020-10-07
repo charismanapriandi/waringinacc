@@ -1,0 +1,205 @@
+body {
+    background-color: rgb(15, 15, 15);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 177, 109);
+    transition: all .3s ease 0s;
+}
+
+a:hover {
+    text-decoration: none;
+    color: rgb(230, 126, 34);
+}
+
+.nav-color-03 {
+    background-color: rgba(26, 26, 26, 0.2);
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+.nav-solid {
+    background-color: rgb(30, 30, 30);
+}
+
+.carousel .carousel-inner .carousel-item img {
+    height: 100vh;
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+    -moz-filter: brightness(50%);
+}
+
+.highlight img {
+    height: 100px;
+}
+
+.my-panel {
+    background-color: rgb(26, 26, 26);
+    overflow: hidden;
+}
+
+input {
+    border-radius: 0 !important;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.btn-orange {
+    background-color: rgb(230, 126, 34);
+    /* border: 1px; */
+    transition: all .3s ease 0s;
+}
+
+.btn-orange:hover {
+    background-color: rgb(231, 108, 0);
+}
+
+.bl-orange {
+    border-left: 3px solid rgb(230, 126, 34) !important;
+}
+
+.social li {
+    padding: 4px;
+}
+
+.footer-copyright {
+    background-color: rgb(20, 20, 20);
+}
+
+.cmt-80 {
+    margin-top: 80px;
+}
+
+.img-thumbnail {
+    padding: 0;
+    border-radius: 0;
+    border: 0px;
+}
+
+.img-thumbnail-gallery {
+    transition: all .3s ease 0s;
+}
+
+.img-thumbnail-gallery:hover {
+    opacity: 0.5;
+    cursor: pointer;
+    transform: scale(1.1);
+}
+
+.qty {
+    max-width: 80px;
+    outline: 0;
+    background-color: rgb(20, 20, 20);
+    border: 1px solid rgb(230, 126, 34);
+    color: rgb(255, 255, 255);
+}
+
+.ready-color {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.spec span {
+    color: rgb(230, 126, 34);
+}
+
+table th {
+    min-width: 100px;
+}
+
+.btn-outline-orange {
+    color: rgb(230, 126, 34);
+    border: 1px solid rgb(230, 126, 34);
+    transition: all .3s ease 0s;
+}
+
+.btn-outline-orange:hover {
+    color: rgb(230, 126, 34);
+    border: 1px solid rgb(230, 126, 34);
+    background-color: rgb(230, 126, 34);
+}
+
+.btn-outline-orange a {
+    color: rgb(230, 126, 34);
+}
+
+.btn-outline-danger i {
+    color: #dc3545;
+    transition: all .3s ease 0s;
+}
+
+.btn-outline-danger:hover i {
+    color: #ffffff;
+}
+
+.text-orange {
+    color: rgb(230, 126, 34);
+}
+
+.navbar .navbar-nav .nav-item .nav-link span {
+    color: rgb(230, 126, 34);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.pembayaran span {
+    color: rgb(230, 126, 34);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.page-title {
+    text-transform: uppercase;
+    font-size: large;
+}
+
+/* cart-list */
+.cart-list {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(34, 34, 34);
+}
+
+.cart-list .product-price {
+    color: rgb(230, 126, 34);
+    font-weight: bold;
+}
+
+.cart-list .product-title {
+    font-size: medium;
+    font-weight: bold;
+}
+
+.blog-title {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.blog-img {
+    width: 80%;
+}
+
+textarea {
+    background-color: rgb(30, 30, 30) !important;
+    color: white !important;
+}
+
+.profile-img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 3px solid rgba(40, 40, 40, );
+}
+
+.comment-list {
+    background-color: rgb(34, 34, 34);
+}
+
